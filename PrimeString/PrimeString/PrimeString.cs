@@ -8,19 +8,16 @@ namespace PrimeString
 {
 	public class PrimeString
 	{
+		private int startIndex = 2;
+
 		public bool isPerminString(string input)
 		{
 			bool isPerminString = true;
 
-			for (int i = 2; i < input.Length; i++)
+			for (int i = startIndex; i < input.Length; i++)
 			{
-				var oristr = input;
-				var str = oristr.Substring(0, i);
-
-				if ((oristr.Replace(str, string.Empty).Length == 0))
-				{
+				if ((input.Replace(input.Substring(0, i), string.Empty).Length == 0))
 					isPerminString = false;
-				}
 			}
 
 			return isPerminString;

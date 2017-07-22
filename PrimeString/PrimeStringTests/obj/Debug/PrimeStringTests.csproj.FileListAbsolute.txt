@@ -7,3 +7,12 @@ c:\Users\Marcus\Documents\Visual Studio 2015\Projects\PrimeString\PrimeStringTes
 c:\Users\Marcus\Documents\Visual Studio 2015\Projects\PrimeString\PrimeStringTests\obj\Debug\PrimeStringTests.csprojResolveAssemblyReference.cache
 c:\Users\Marcus\Documents\Visual Studio 2015\Projects\PrimeString\PrimeStringTests\obj\Debug\PrimeStringTests.dll
 c:\Users\Marcus\Documents\Visual Studio 2015\Projects\PrimeString\PrimeStringTests\obj\Debug\PrimeStringTests.pdb
+C:\Users\Marcus\Documents\GitHub\PrimeString\PrimeString\PrimeStringTests\bin\Debug\PrimeStringTests.dll
+C:\Users\Marcus\Documents\GitHub\PrimeString\PrimeString\PrimeStringTests\bin\Debug\PrimeStringTests.pdb
+C:\Users\Marcus\Documents\GitHub\PrimeString\PrimeString\PrimeStringTests\bin\Debug\nunit.framework.dll
+C:\Users\Marcus\Documents\GitHub\PrimeString\PrimeString\PrimeStringTests\bin\Debug\PrimeString.exe
+C:\Users\Marcus\Documents\GitHub\PrimeString\PrimeString\PrimeStringTests\bin\Debug\PrimeString.pdb
+C:\Users\Marcus\Documents\GitHub\PrimeString\PrimeString\PrimeStringTests\bin\Debug\nunit.framework.xml
+C:\Users\Marcus\Documents\GitHub\PrimeString\PrimeString\PrimeStringTests\obj\Debug\PrimeStringTests.csprojResolveAssemblyReference.cache
+C:\Users\Marcus\Documents\GitHub\PrimeString\PrimeString\PrimeStringTests\obj\Debug\PrimeStringTests.dll
+C:\Users\Marcus\Documents\GitHub\PrimeString\PrimeString\PrimeStringTests\obj\Debug\PrimeStringTests.pdb

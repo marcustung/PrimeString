@@ -12,7 +12,14 @@ namespace PrimeString.Tests
 	public class PrimeStringTests
 	{
 		[Test()]
+		[TestCase("abac", true)]
 		[TestCase("abab", false)]
+		[TestCase("aaaa", false)]
+		[TestCase("x", true)]
+		[TestCase("abc", true)]
+		[TestCase("fdsyffdsyffdsyffdsyffdsyf", false)]
+		[TestCase("utdutdtdutd", true)]
+		[TestCase("abba", true)]
 		public void isPerminStringTest(string inputValue, bool isPrimeString)
 		{
 			// Arrange

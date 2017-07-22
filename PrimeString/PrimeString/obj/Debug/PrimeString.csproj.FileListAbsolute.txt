@@ -4,3 +4,9 @@ c:\users\marcus\documents\visual studio 2015\Projects\PrimeString\PrimeString\bi
 c:\users\marcus\documents\visual studio 2015\Projects\PrimeString\PrimeString\obj\Debug\PrimeString.csprojResolveAssemblyReference.cache
 c:\users\marcus\documents\visual studio 2015\Projects\PrimeString\PrimeString\obj\Debug\PrimeString.exe
 c:\users\marcus\documents\visual studio 2015\Projects\PrimeString\PrimeString\obj\Debug\PrimeString.pdb
+C:\Users\Marcus\Documents\GitHub\PrimeString\PrimeString\PrimeString\bin\Debug\PrimeString.exe.config
+C:\Users\Marcus\Documents\GitHub\PrimeString\PrimeString\PrimeString\obj\Debug\PrimeString.exe
+C:\Users\Marcus\Documents\GitHub\PrimeString\PrimeString\PrimeString\obj\Debug\PrimeString.pdb
+C:\Users\Marcus\Documents\GitHub\PrimeString\PrimeString\PrimeString\bin\Debug\PrimeString.exe
+C:\Users\Marcus\Documents\GitHub\PrimeString\PrimeString\PrimeString\bin\Debug\PrimeString.pdb
+C:\Users\Marcus\Documents\GitHub\PrimeString\PrimeString\PrimeString\obj\Debug\PrimeString.csprojResolveAssemblyReference.cache
