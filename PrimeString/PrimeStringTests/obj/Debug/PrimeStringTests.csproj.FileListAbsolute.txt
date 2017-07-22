@@ -1,0 +1,9 @@
+c:\Users\Marcus\Documents\Visual Studio 2015\Projects\PrimeString\PrimeStringTests\bin\Debug\PrimeStringTests.dll
+c:\Users\Marcus\Documents\Visual Studio 2015\Projects\PrimeString\PrimeStringTests\bin\Debug\PrimeStringTests.pdb
+c:\Users\Marcus\Documents\Visual Studio 2015\Projects\PrimeString\PrimeStringTests\bin\Debug\nunit.framework.dll
+c:\Users\Marcus\Documents\Visual Studio 2015\Projects\PrimeString\PrimeStringTests\bin\Debug\PrimeString.exe
+c:\Users\Marcus\Documents\Visual Studio 2015\Projects\PrimeString\PrimeStringTests\bin\Debug\PrimeString.pdb
+c:\Users\Marcus\Documents\Visual Studio 2015\Projects\PrimeString\PrimeStringTests\bin\Debug\nunit.framework.xml
+c:\Users\Marcus\Documents\Visual Studio 2015\Projects\PrimeString\PrimeStringTests\obj\Debug\PrimeStringTests.csprojResolveAssemblyReference.cache
+c:\Users\Marcus\Documents\Visual Studio 2015\Projects\PrimeString\PrimeStringTests\obj\Debug\PrimeStringTests.dll
+c:\Users\Marcus\Documents\Visual Studio 2015\Projects\PrimeString\PrimeStringTests\obj\Debug\PrimeStringTests.pdb
