@@ -20,6 +20,7 @@ namespace PrimeString.Tests
 		[TestCase("fdsyffdsyffdsyffdsyffdsyf", false)]
 		[TestCase("utdutdtdutd", true)]
 		[TestCase("abba", true)]
+		[TestCase("ccccc", false)]
 		public void isPerminStringTest(string inputValue, bool isPrimeString)
 		{
 			// Arrange

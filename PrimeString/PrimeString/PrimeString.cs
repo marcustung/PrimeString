@@ -8,13 +8,13 @@ namespace PrimeString
 {
 	public class PrimeString
 	{
-		private int startIndex = 2;
+		private readonly int _startIndex = 1;
 
 		public bool isPerminString(string input)
 		{
 			bool isPerminString = true;
 
-			for (int i = startIndex; i < input.Length; i++)
+			for (int i = _startIndex; i < input.Length; i++)
 			{
 				if ((input.Replace(input.Substring(0, i), string.Empty).Length == 0))
 					isPerminString = false;
